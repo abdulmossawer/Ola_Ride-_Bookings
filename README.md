@@ -84,7 +84,7 @@ A **Power BI Dashboard** was created to visualize booking performance, cancellat
 
 ## 📬 Author  
 👤 **Abdul Mossawer**  
-📧 [Your Email Here]  
-🌐 [LinkedIn / Portfolio Link]  
+📧 mossawer786@gmail.com 
+🌐 [https://www.linkedin.com/in/abdul-mossawer-std]  
 
 ---
